@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/yashvardhancn44/UserAnalytics-Kakfa-Frontend.git
+[submodule "backend-consumer"]
+	path = backend-consumer
+	url = https://github.com/yashvardhancn44/UserAnalytics-Kakfa-consumer.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yashvardhancn44/UserAnalytics-Kakfa-producer.git
+[submodule "frontend-dashboard"]
+	path = frontend-dashboard
+	url = https://github.com/yashvardhancn44/UserAnalytics-kafka-Dashboard.git
